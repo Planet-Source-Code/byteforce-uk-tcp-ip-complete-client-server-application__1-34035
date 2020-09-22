@@ -1,0 +1,38 @@
+Planet Source Code Submission
+=============================
+Author Name:   Matt Hall
+D.O.B:         29 DEC 84
+Mug Shot:      www.faceparty.com\cyberdude69b
+Contact:       matt_hall44@hotmail.com
+
+Date Started   Unknown
+Date Finished: Unknown
+Total Hours:   10.5
+
+Project Title: General TCP\IP Client
+Version:       2.0
+Credits:       PROBas.bas by Unknown author
+               Some icons taken from the Microsoft(R) Windows(R)
+               Operating System.
+
+Description:   Allows application of TCP\IP network communication via two seperate
+	       applications.. You can Query Current Windows Username, Execute EXE file,
+	       Toggle Hide Server, Query IP Address (for DNS resolution), Send Instant
+	       Message, Windows ShellExec and RSA Skipjack Encrypted Chat. It is very easy
+	       to implement more features into the project, just take a quick delve into the
+	       code and all will be clear!
+
+Assumes:       Microsoft Winsock Control [Included]
+	       Microsoft Windows 9x\ME\NT\2000\XP Operating System
+
+Notes:         You can find settings for TCP IP Client\Server in XSERV.INI in the Server Folder
+
+               Got problems or queries about this submission? E-Post me at matt_hall44@hotmail.com
+
+
+               *********************************************************************************
+               Although every step is taken to prevent it;
+
+               I CANNOT BE HELD RESPONSIBLE FOR ANY DATA LOSS OR CORRUPTION TO YOUR COMPUTER,
+               CAUSED DIRECTLY OR INDIRECTLY BY USAGE OF THE FILES PROVIDED IN THIS ARCHIVE SET.
+               *********************************************************************************
